@@ -43,6 +43,10 @@ Or go to [alook.ai](https://alook.ai) and connect a local runtime.
 
 
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Alook/)
+
 ## Features
 
 **Collaboration** — Invite people you trust into a room where they can talk with the agent you already use.
